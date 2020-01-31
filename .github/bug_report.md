@@ -3,7 +3,6 @@ name: Bug report
 about: Make a report about a bug
 title: ''
 labels: bug
-assignees: ''
 
 ---
 
