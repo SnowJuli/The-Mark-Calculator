@@ -12,11 +12,8 @@
 ### How to use?
 
 1. Simply launch the [marks.py](marks.py) file and go on!
-
 2. Enter the total of your Marks.
-<br>
 3. Enter your Marks.
-<br>
 4. The average Mark of your report will be calculated.
 
 
